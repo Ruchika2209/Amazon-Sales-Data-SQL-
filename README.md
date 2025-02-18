@@ -1,4 +1,4 @@
-# Amazon-Sales-Data-SQL-
+# Amazon-Sales-Data-SQL and Power BI
 # Objective Of The Project
 The main aim of the project is to dive into the Amazon Sales Data and draw insights from it and analayze which factors affect the sales of different cities and their corrosponding branches using SQL. The project aims to uncover insights into sales trends, customer behavior, and product performance. By leveraging the power of SQL queries, we extract meaningful statistics and patterns from complex datasets.
 
